@@ -4,8 +4,8 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -735.2921,
-    "scrollLeft": -63,
+    "scrollTop": -953.2118,
+    "scrollLeft": -122,
     "zoomLevel": 0.8,
     "show": 431,
     "database": 4,
@@ -421,7 +421,7 @@
           "gDyQXFINDlNAEr80PoSbc"
         ],
         "ui": {
-          "x": 11.25,
+          "x": 7.5,
           "y": 1473.4594,
           "zIndex": 521,
           "widthName": 60,
@@ -429,7 +429,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1769571706753,
+          "updateAt": 1769689936468,
           "createAt": 1769571079475
         }
       },
@@ -439,7 +439,6 @@
         "comment": "유저 배지",
         "columnIds": [
           "kf3XPeewE5ikb71DVg1zi",
-          "z6UWEs14RZTnbySSuhtYL",
           "7V1toYkeSL1RMnKnK98ID",
           "VbKbxZ9omYaOjAilnwVHT",
           "hqTIp10iZnrDULrJjJfog"
@@ -461,7 +460,7 @@
           "color": ""
         },
         "meta": {
-          "updateAt": 1769571702022,
+          "updateAt": 1769689466737,
           "createAt": 1769571339066
         }
       },
@@ -2341,7 +2340,7 @@
           "columnIds": [
             "gObAQtNx1fP_irqgB37Ot"
           ],
-          "x": 197.25,
+          "x": 193.5,
           "y": 1473.4594,
           "direction": 4
         },
@@ -2350,8 +2349,8 @@
           "columnIds": [
             "VbKbxZ9omYaOjAilnwVHT"
           ],
-          "x": 198.25,
-          "y": 1336.8315,
+          "x": 192.75,
+          "y": 1312.8315,
           "direction": 8
         },
         "meta": {
@@ -2378,7 +2377,7 @@
           "columnIds": [
             "hqTIp10iZnrDULrJjJfog"
           ],
-          "x": 198.25,
+          "x": 192.75,
           "y": 1160.8315,
           "direction": 4
         },
@@ -2639,15 +2638,15 @@
         "id": "tsO7A6ZhrKp7ukdtr2z-e",
         "value": "3일 연속 방문 등의 횟수 세기는 rdbms보다는 nosql에서 관리하는 것이 나아보임\n\n",
         "ui": {
-          "x": 433.75,
-          "y": 1474.5815,
+          "x": 420,
+          "y": 1482.0815,
           "zIndex": 667,
           "width": 215,
           "height": 100,
           "color": ""
         },
         "meta": {
-          "updateAt": 1769571771577,
+          "updateAt": 1769689938683,
           "createAt": 1769571514838
         }
       },
